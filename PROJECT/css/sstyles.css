@@ -1,0 +1,94 @@
+body,html{
+  height:100%;
+  margin:0%;
+    background: url('https://images.squarespace-cdn.com/content/v1/54a3efb4e4b0243cdd445408/1627318507511-ZD9P18TE7JO5MLLYVCWL/PhD+Life+Day+2+-+38.jpg?format=1500w');
+}
+#main-body{
+
+  background-repeat:no-repeat;
+  background-size: auto;
+  height:100%;
+  background-position:center;
+}
+
+
+  .left
+  {
+
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  .middle
+  {
+    display: block;
+    width: 50%;
+    margin: 4px auto;
+
+
+
+    border-spacing: 200px;
+
+  }
+  .right{
+    position: absolute;
+    color:green;
+    border: solid blue;
+    top: 20px;
+    right: 20px;
+    display: inline-block;
+  }
+ .hello li
+ {display: inline-block;}
+  .hello li a
+  {color: aliceblue;
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .hello li a:hover
+  {
+    text-decoration: underline;
+    color: pink;
+  }
+  .hey{color: blue;}
+  .hey:hover{
+    color: blue;
+    text-decoration: underline;
+
+  }
+  .img
+  {
+    opacity: 75%;
+  }
+  .gym
+  {padding-bottom: 20px;
+    display: block;
+    border: solid 2px;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 15px;
+    width:350px;
+    height:450px;
+    font-size: 35px;
+    font-family: ballubhai;
+margin: 11px;
+  }
+  .hove{color: blue;
+    font-size: 15px;
+padding: 5px;
+border-radius: 15px;
+  }
+  .hove:hover{
+    color: green;
+  }
+  .heyy
+  {font-size: 20px;
+    margin: 15px;
+    border-radius: 10px;
+  }
+label
+{
+  color: aliceblue;
+}
